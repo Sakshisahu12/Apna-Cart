@@ -123,6 +123,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ## Screenshot
 
-https://github.com/Sakshisahu12/Apna-Cart/blob/master/Screenshot%20(65).png?raw=true
+https://github.com/Sakshisahu12/Apna-Cart/blob/master/Screenshot%20(65).png
 
 
